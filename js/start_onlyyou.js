@@ -17,7 +17,7 @@
             if(typeof(start_content['chase_title'])!='undefined' && start_content['chase_title']!=''){
                 $('.div_oy_text h1').html(start_content['chase_title']); //加载自定义内容
             }else{
-                $('.div_oy_text h1').html('哈喽呀'); //设置默认值
+                $('.div_oy_text h1').html('做我女朋友好不好'); //设置默认值
             }
 
             if(typeof(start_content['chase_text'])!='undefined' && start_content['chase_text']!=''){ 
